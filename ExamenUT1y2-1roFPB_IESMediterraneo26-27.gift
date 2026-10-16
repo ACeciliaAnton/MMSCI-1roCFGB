@@ -1,0 +1,591 @@
+// Examen tipo preguntas múltiple solo hay una opción correcta. Curso 2026/2027
+// IES MEDITERRÁNEO - 1ro FPB INFORMÁTICA DE OFICINA.
+// Unidad de Trabajo 1 - Elementos básicos eléctricos y electrónicos.
+// Unidad de Trabajo 2 - Unidades funcionales de un ordenador.
+
+// Desde aquí UT1 ..................................
+
+::1.:: [markdown] El dibujo de la figura representa\:<br />
+<img src\="https\://aceciliaanton.github.io/MMSCI-1roCFGB/img/imagen1.png" alt\="Imagen1" title\=""/>
+<br/>
+{
+    ~%-33.33333% La materia.
+    ~%-33.33333% Los planetas del sistema solar.
+    ~%-33.33333% Una carga eléctrica.
+    = Un átomo.
+}
+
+::2.:: Elige la respuesta correcta\:
+{
+    = Los electrones tienen carga negativa, los protones tienen carga positiva y los neutrones no tienen carga.
+    ~%-33.33333% Los protones tienen carga negativa, los electrones no tienen carga, y los neutrones no tienen carga.
+    ~%-33.33333% Solo los electrones tienen carga y esta es negativa.
+    ~%-33.33333% El resto de opciones son incorrectas
+}
+
+::3.:: Los responsables de todos los fenómenos eléctricos son los electrones, porque pueden escapar del átomo y son mucho más ligeros que el resto de las partículas.
+{
+    = Verdadero.
+    ~%-33.33333% Falso.
+}
+
+::4.:: El cobre es mejor conductor que la madera porque los electrones del cobre pueden moverse más fácilmente.
+{
+    = Verdadero.
+    ~%-33.33333% Falso.
+}
+
+::5.:: Elige una respuesta correcta\:
+{
+    ~%-33.33333% La oposición que ejerce un material al paso de la corriente eléctrica se le llama conductividad.
+    = La oposición que ejerce un material al paso de la corriente eléctrica se le llama resistencia.
+    ~%-33.33333%  La oposición que ejerce un material al paso de la corriente eléctrica se mide en voltios.
+    ~%-33.33333% El resto de opciones son incorrectas.
+}
+
+::6.:: Elige la respuesta correcta\:
+{
+    = Lo contrario de la conductividad eléctrica es la resistencia eléctrica.
+    ~%-33.33333% La resistencia eléctrica es exactamente lo mismo que la conductividad eléctrica solo que dicho de otra forma.
+    ~%-33.33333% La conductividad eléctrica se mide en ohmios.
+    ~%-33.33333% El resto de opciones son incorrectas.
+}
+
+::7.:: ¿Cómo se llama el material que permite el paso de la corriente eléctrica a través de él dependiendo de unas condiciones externas?
+{
+    ~%-33.33333% Transistor.
+    ~%-33.33333% Semiaislante.
+    = Semiconductor.
+    ~%-33.33333% Diodo.
+}
+
+::8.:: Por convenio, en un circuito dibujamos el sentido de la corriente eléctrica\:
+{
+    ~%-33.33333% Del polo negativo al positivo.
+    ~%-33.33333% El sentido lo fija el diseñador.
+    = Del polo positivo al negativo.
+    ~%-33.33333% Depende de la ley de Ohm.
+}
+
+::9.:: La unidad de medida par la tensión o voltaje eléctrico es\:
+{
+    ~%-33.33333% El vatio y se simboliza con la letra V.
+    ~%-33.33333% El amperio y se simboliza con la letra A.
+    = El voltio y se representa con la letra V.
+    ~%-33.33333% El resto de opciones son incorrectas.
+}
+
+::10.:: En lo que se refiere a la capacidad de los materiales para conducir la electricidad, si los ordenamos de mayor resistencia a menor resistencia eléctrica, el orden correcto de los siguientes materiales es\:
+{ 
+    = madera, silicio, oro y cobre.
+    ~%-33.33333% oro, cobre, silicio y madera.
+    ~%-33.33333% madera, silicio, cobre y oro.
+    ~%-33.33333% silicio, cobre, oro, madera.
+}
+
+::11.:: El movimiento de cargas eléctricas de un punto a otro se conoce como\:
+{
+    ~%-33.33333% Corriente o caída de tensión.
+    = Corriente eléctrica.
+    ~%-33.33333% Resistencia eléctrica.
+    ~%-33.33333% No tiene un nombre específico.
+}
+
+::12.:: Cuando una corriente eléctrica atraviesa una resistencia, se produce una caída de potencial, voltaje o tensión.
+{
+    = Verdadero.
+    ~%-33.33333% Falso.
+}
+
+::13.:: En un circuito en serie los componentes o dispositivos están situados uno a continuación del otro.
+{ 
+    = Verdadero.
+    ~%-33.33333% Falso.
+}
+
+::14.:: En el silguiente circuito los siguientes componentes están conectados en\: <br />
+<img src\="https\://aceciliaanton.github.io/MMSCI-1roCFGB/img/imagen2.png" alt\="Imagen2" title\=""/>
+<br/>
+{
+    = Serie.
+    ~%-33.33333% Paralelo.
+    ~%-33.33333% De forma incorrecta.
+    ~%-33.33333% Eso no tiene sentido porque no existe.
+}
+
+::15.:: Elige la respuesta correcta\:<br />
+<img src\="https\://aceciliaanton.github.io/MMSCI-1roCFGB/img/imagen3.png" alt\="Imagen3" title\=""/>
+<br/>
+{
+    = La serie de R1 con R2 está en paralelo con la serie de C1 con C2.
+    ~%-33.33333% Todos los componentes están en serie.
+    ~%-33.33333% Todos los componentes están en paralelo.
+    ~%-33.33333% Está mal porque eso así no se puede conectar.
+}
+
+::16.:: La resistencia equivalente o total de un circuito con dos resistencias en serie R1\=10Ω y R2\=100Ω, es\:
+{
+    ~%-33.33333% 110V.
+    = 110Ω.
+    ~%-33.33333% 55Ω.
+    ~%-33.33333% 100Ω.
+}
+
+::17.:: La resistencia equivalente o total de un circuito con dos resistencias en paralelo R1\=100Ω y R2\=100Ω, es\:
+{
+    ~%-33.33333% 200V.
+    = 50Ω.
+    ~%-33.33333% 55Ω.
+    ~%-33.33333% 200Ω.
+}
+
+::18.:: La intensidad de corriente eléctrica que circula en el siguiente circuito es\:<br />
+<img src\="https\://aceciliaanton.github.io/MMSCI-1roCFGB/img/imagen4.png" alt\="Imagen4" title\=""/>
+<br/>
+{
+    ~%-33.33333% I\= 0V.
+    ~%-33.33333% I\= 0,5A.
+    = I\= 0A.
+    ~%-33.33333% I\= 0.5Ω.
+}
+
+::19.:: Cuando encontramos dos pilas conectadas en serie como en la siguiente figura, la tensión total es\:<br />
+<img src\="https\://aceciliaanton.github.io/MMSCI-1roCFGB/img/imagen5.png" alt\="Imagen5" title\=""/>
+<br/>
+{
+    ~%-33.33333% 10A.
+    ~%-33.33333% 0V.
+    ~%-33.33333% 5V.
+    =10V.
+}
+
+::20.:: Según la ley de ohm\:
+{
+    ~%-33.33333% R\= V x I
+    = R\= V / I
+    ~%-33.33333% R\= I / V
+    ~%-33.33333% R\= R1 x R2 / R1 + R2
+}
+
+::21.:: Según la ley de ohm\:
+{
+    = V\= R x I
+    ~%-33.33333% V\= R / I
+    ~%-33.33333% V\= I / R
+    ~%-33.33333% R\= R1 x R2 / R1 + R2
+}
+
+::22.:: Según la ley de ohm\:
+{
+    ~%-33.33333% I\= R x V
+    = I\= V / R
+    ~%-33.33333% I\= R / V
+    ~%-33.33333% I\= R1 x R2 / R1 + R2
+}
+
+::23.:: La intensidad de corriente eléctrica que circula por el siguiente circuito es\:<br />
+<img src\="https\://aceciliaanton.github.io/MMSCI-1roCFGB/img/imagen6.png" alt\="Imagen6" title\=""/>
+<br/>
+{
+    ~%-33.33333% I\= 2A.
+    ~%-33.33333% I\= 1V.
+    ~%-33.33333% I\= 0,1A.
+    = I\= 1A.
+}
+
+::24.:: La intensidad de corriente eléctrica que circula por el siguiente circuito es\:<br />
+<img src\="https\://aceciliaanton.github.io/MMSCI-1roCFGB/img/imagen7.png" alt\="Imagen7" title\=""/>
+<br/>
+{
+    ~%-33.33333% I\= 0A.
+    ~%-33.33333% I\= 1V.
+    ~%-33.33333% I\= 0,1A.
+    = I\= 0,5A.
+}
+
+::25.:: El voltaje de la pila del siguiente circuito es\:<br />
+<img src\="https\://aceciliaanton.github.io/MMSCI-1roCFGB/img/imagen8.png" alt\="Imagen8" title\=""/>
+<br/>
+{
+    ~%-33.33333% I\= 10V.
+    ~%-33.33333% V\= 5Ω.
+    ~%-33.33333% V\= 10A.
+    = V\= 10V.
+}
+
+::26.:: El valor de la resitencia R1 del siguiente circuito es\:<br />
+<img src\="https\://aceciliaanton.github.io/MMSCI-1roCFGB/img/imagen9.png" alt\="Imagen9" title\=""/>
+<br/>
+{
+    ~%-33.33333% V\= 0,5V.
+    = R1\= 5Ω.
+    ~%-33.33333% R1\= 20Ω.
+    ~%-33.33333% El resto de opciones son incorrectas.
+}
+
+::27.:: En los enchufes de corriente de casa tenemos una tensión de\:
+{
+    ~%-33.33333% 230V en continua.
+    = 230V en alterna.
+    ~%-33.33333% 230A en corriente alterna.
+    ~%-33.33333% 230Ω en corriente alterna.
+}
+
+::28.:: La resistencia equivalente total del circuito es\:<br />
+<img src\="https\://aceciliaanton.github.io/MMSCI-1roCFGB/img/imagen10.png" alt\="Imagen10" title\=""/>
+<br/>
+{
+    ~%-33.33333% 25Ω.
+    ~%-33.33333% 5Ω.
+    ~%-33.33333% 10Ω.
+    = 2,5Ω.
+}
+
+::29.::La resistencia equivalente total del circuito es\:<br />
+<img src\="https\://aceciliaanton.github.io/MMSCI-1roCFGB/img/imagen11.png" alt\="Imagen11" title\=""/>
+<br/>
+{
+    ~%-33.33333% 25Ω.
+    = 5Ω.
+    ~%-33.33333% 10Ω.
+    ~%-33.33333% 2,5Ω.
+}
+
+::30.::El valor de la corriente eléctrica I que pasa por el circuito es\:<br />
+<img src\="https\://aceciliaanton.github.io/MMSCI-1roCFGB/img/imagen11.png" alt\="Imagen11" title\=""/>
+<br/>
+{
+    ~%-33.33333% 1Ω.
+    = 1A.
+    ~%-33.33333% 5V.
+    ~%-33.33333% 5A.
+}
+
+::61.:: La potencia de una fuente de alimentación se mide en\:
+{
+    = Vatios (W).
+    ~%-33.33333% Voltios (V).
+    ~%-33.33333% Amperios (A).
+    ~%-33.33333% Vatios (V).
+}
+
+::62.:: El valor 20mA hace alusión a ...\:
+{
+    ~%-33.33333% La resistencia.
+    ~%-33.33333% La capacidad de un condensador.
+    ~%-33.33333% El resto de opciones son incorrectas.
+    = La intensidad de corriente eléctrica.
+}
+
+::63.:: ¿Qué tipo de corriente eléctrica dan las pilas y las baterías?
+{
+    ~%-33.33333% Las pilas dan en contíinua y las baterías en alterna.
+    ~%-33.33333% Depende cómo se conecten.
+    ~%-33.33333% Alterna o senoidal.
+    = Continua.
+}
+
+::64.:: Si la etiqueta de una fuente ponde "TOTAL OUT-PUT\:1500W", significa que ...\:
+{
+    ~%-33.33333% Tiene una potencia de entrada de 1500 voltios.
+    ~%-33.33333% Tiene una potencia de salida de 1500 voltios.
+    = No podré tener más de 1500 watios de salida.
+    ~%-33.33333% El resto de respuestas no son correctas.
+}
+
+::65.:: En una resistencia, la banda de la derecha suele utilizarse para representar ...\:
+{
+    ~%-33.33333% El resto de respuestas no son correctas.
+    ~%-33.33333% El multiplicador.
+    ~%-33.33333% La primera cifra del valor total.
+    = La tolerancia.
+}
+
+::66.:: ¿De qué tipo suelen ser las resistencia que se utilizan en las placas de circuito impreso?
+{
+    ~%-33.33333% Resistencia mágneticas.
+    ~%-33.33333% Resistencias de potencia.
+    = Resistencia SMD.
+    ~%-33.33333% El resto de respuestas no son correctas.
+}
+
+::67.:: ¿Qué elemento se utiliza para almacenar corriente eléctrica en su interior?
+{    
+    ~%-33.33333% Una resistencia.
+    ~%-33.33333% Un diodo led.
+    ~%-33.33333% Un semiconductor.
+    = Un condensador.
+}
+
+::68.:: Un transistor ...\:
+{
+    = Es un semiconductor.
+    ~%-33.33333% Emite ultrasonidos.
+    ~%-33.33333% Tiene un nivel de integración ULSI.
+    ~%-33.33333% Todas las opciones son correctas.
+}
+
+::69.:: La escala más baja del nivel de integración de chips es la ...\:
+{
+    ~%-33.33333% ULSI.
+    ~%-33.33333% MSI.
+    ~%-33.33333% SSI.
+    = GLSI.
+}
+
+::70.:: La imagen corresponde a la etiqueta de una fuente de alimentación\:<br />
+<img src\="https\://aceciliaanton.github.io/MMSCI-1roCFGB/img/imagen12.png" alt\="Imagen12" title\=""/>
+<br/>
+{
+    ~%-33.33333% Potencia máxima de salida 240V.
+    = 850 vatios.
+    ~%-33.33333% 70,4A.
+    ~%-33.33333% 850 voltios.
+}
+
+
+// .................................. hasta aquí las preguntas de UT1
+
+// Desde aquí UT2 ..................................
+
+::31.:: ¿Por qué unidades está compuesta la CPU?
+{
+    ~%-33.33333% UC y RAM.
+    ~%-33.33333% UAL y RAM.
+    = UC y ALU.
+    ~%-33.33333% El resto de respuestas no son correctas.
+}
+
+::32.::¿Cuál de las siguientes memorias es más rápida?
+{
+    ~%-33.33333% La memoria RAM.
+    = La memoria caché.
+    ~%-33.33333% Un disco SSD.
+    ~%-33.33333% El resto de respuestas no son correctas.
+}
+
+::33.:: ¿Cuál de los siguientes NO es un tipo de bus?
+{
+    ~%-33.33333% Bus de direcciones.
+    ~%-33.33333% Bus de datos.
+    = Bus de memoria.
+    ~%-33.33333% El resto de respuestas no son correctas.
+}
+
+::34.:: ¿En qué unidad funcional de un ordenador se encuadraría al microprocesador?
+{
+    ~%-33.33333% En la ALU
+    ~%-33.33333% En la UM
+    ~%-33.33333% En la SSD
+    = El resto de respuestas no son correctas.
+}
+
+::35.:: ¿Cuál de las siguientes NO es una unidad funcional?
+{
+    ~%-33.33333% Unidad de memoria.
+    ~%-33.33333% Unidad de E/S.
+    = La tarjeta gráfica.
+    ~%-33.33333% El resto de respuestas no son correctas.
+}
+
+::36.:: ¿Cuál de los siguientes NO es un tipo de periférico?
+{
+    = Transistor.
+    ~%-33.33333% El monitor.
+    ~%-33.33333% El ratón.
+    ~%-33.33333% Todas las respuestas son correctas.
+}
+
+::37.:: Un Pen drive de memoria es un tipo de memoria\:
+{
+    = Auxiliar.
+    ~%-33.33333% Principal.
+    ~%-33.33333% Random.
+    ~%-33.33333% L1.
+}
+
+::38.:: La CPU está formada por\:
+{
+    ~%-33.33333% La Unidad Aritmético Lógica (ALU) y la Unidad de Memoria (UM).
+    =La Unidad Aritmético Lógica (ALU) y la Unidad de Control (UC)
+    ~%-33.33333% Todas las respuestas son correctas.
+    ~%-33.33333% La unidad de memoria Caché (L1) y la Unidad Lógica (UA).
+}
+
+::39.:: El teclado del ordenador es\:
+{
+    = Un periférico de entrada.
+    ~%-33.33333% Un periférico de salida.
+    ~%-33.33333% No es un periférico.
+    ~%-33.33333% Un periférico de comunicación.
+}
+
+::40.:: ¿En qué arquitectura se basan los ordenadores?
+{
+    ~%-33.33333% Microsoft.
+    = Von Neumann.
+    ~%-33.33333% Microprocesamiento.
+    ~%-33.33333% Ninguna de las respuestas anteriores es correcta.
+}
+
+::41.:: ¿Cuál de las siguientes memorias es más rápida?
+{
+    ~%-33.33333% Memoria RAM.
+    ~%-33.33333% Memoria extraíble.
+    ~%-33.33333% Memoria secundaria.
+    = Registros.
+}
+
+::42.:: ¿Cuál de las siguientes memorias tiene menos capacidad de almacenamiento?
+{
+    ~%-33.33333% Memoria RAM.
+    ~%-33.33333% Memoria extraíble.
+    ~%-33.33333% Memoria secundaria.
+    = Registros.
+}
+
+::43.:: ¿Qué elemento se encuentra en el microprocesador?
+{
+    ~%-33.33333% La UC.
+    ~%-33.33333% Registros.
+    ~%-33.33333% La ALU.
+    = Todos los anteriores.
+}
+
+::44.:: La unidad encargada de realizar operaciones es la …\:
+{
+    = ALU.
+    ~%-33.33333%  UC.
+    ~%-33.33333% UM.
+    ~%-33.33333% UR.
+}
+
+::45.:: ¿Qué periférico es considerado entrada/salida?
+{
+    ~%-33.33333% Pantalla táctil.
+    ~%-33.33333% Impresora multifunción.
+    ~%-33.33333% Auriculares con micrófono.
+    = Todas las respuestas son correctas.
+}
+
+::46.:: ¿Cuál de estos niveles de memoria caché es más rápido?
+{
+    = L1.
+    ~%-33.33333% L2.
+    ~%-33.33333% L3.
+    ~%-33.33333% L4.
+}
+
+::47.:: El tipo de bus que transfiere datos entre los elementos del ordenador es\:
+{
+    = El bus de datos.
+    ~%-33.33333% El bus de direcciones.
+    ~%-33.33333% El bus de control.
+    ~%-33.33333% Todas las respuestas son correctas.
+}
+
+::48.:: Las operaciones lógicas que se realizan en un ordenador son\:
+{
+    ~%-33.33333% Sumas, restas, multiplicaciones, etc.
+    = AND y OR.
+    ~%-33.33333% Solo hace sumas y restas.
+    ~%-33.33333% Todas las respuestas son correctas.
+}
+
+::49.:: Un ordenador realiza operaciones lógicas con numeros\:
+{
+    = Binarios.
+    ~%-33.33333% Naturales.
+    ~%-33.33333% Racionales.
+    ~%-33.33333% Todas las respuestas son correctas.
+}
+
+::50.:: ¿Cual de las siguientes memorias es más cara?
+{
+    ~%-33.33333% Cache.
+    ~%-33.33333% Principal.
+    ~%-33.33333% Secundaria.
+    = Registros.
+}
+
+::51.:: La agrupación en unidades funcionales se hace basandose en\:
+{
+    ~%-33.33333% El precio de sus componentes.
+    ~%-33.33333% La capacidad de sus componentes.
+    = La función de sus componentes.
+    ~%-33.33333% La velocidad de sus componentes.
+}
+
+::52.:: ¿Cómo se llama el canal por el que se comunican las unidade funcionales?
+{
+    = Bus.
+    ~%-33.33333% Periférico.
+    ~%-33.33333% Unidad de comunicación.
+    ~%-33.33333% Pista.
+}
+
+::53.:: ¿Cómo se denomina la unión de la unidad de control con la unidad aritmético-lógica?
+{
+    ~%-33.33333% ALU.
+    ~%-33.33333% UC.
+    = CPU.
+    ~%-33.33333% Todas las respuestas son correctas.
+}
+
+::54.:: ¿Cuál de los siguientes no sería un componente de la unidad E/S?
+{
+    ~%-33.33333% El monitor.
+    = El microporcesador.
+    ~%-33.33333% El teclado.
+    ~%-33.33333% Webcam.
+}
+
+::55.:: El código binario podemos entenderlo como\:
+{
+    ~%-33.33333% Combinación de unos y ceros.
+    ~%-33.33333% El sistema de numeración que utilizan los ordenadores.
+    ~%-33.33333% Ausencia o no de voltaje.
+    = Todas las respuestas son correctas.
+}
+
+::56.:: ¿Qué operaciones podemos realizar sobre una memoria?
+{
+    ~%-33.33333% Sumas y restas.
+    ~%-33.33333% Comparaciones.
+    = Lectura y escritura.
+    ~%-33.33333% El resto de opciones son correctas.
+}
+
+::57.:: Son memorias VOLÁTILES \:
+{
+    ~%-33.33333% Un Pen Drive.
+    ~%-33.33333% Un SSD.
+    ~%-33.33333% Un disco duro.
+    = La caché.
+}
+
+::58.:: No son memorias VOLÁTILES \:
+{
+    ~%-33.33333% Un Pen Drive.
+    ~%-33.33333% Un SSD.
+    ~%-33.33333% Un disco duro.
+    = El resto de opciones son correctas.
+}
+
+::59.:: ¿Cuáles de las siguientes son memorias magnéticas?
+{
+    = Un HDD.
+    ~%-33.33333% Un SSD.
+    ~%-33.33333% Un Registro.
+    ~%-33.33333% El resto de opciones son correctas.
+}
+
+::60.:: ¿Cuales de las siguientes son memorias semiconductoras?
+{
+    ~%-33.33333% Un Nvme - M2.
+    ~%-33.33333% Un Pen Drive.
+    ~%-33.33333% La RAM.
+    = El resto de opciones son correctas.
+}
+
+// .................................. hasta aquí las preguntas de UT2
